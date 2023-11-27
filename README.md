@@ -1,4 +1,4 @@
-# Front-end-mini-projects
+# Front-end_mini-projects
 
 A collection of practical front-end projects developed using JavaScript, HTML and CSS.
 
