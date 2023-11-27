@@ -9,6 +9,8 @@ A collection of practical front-end projects developed using JavaScript, HTML an
 
 * CalculatorApp : Dark-Light Calculator project provides a simple calculator for basic arithmetic operations. Users can switch between two color themes, black and white.
 
+* DigitalClockApp : This project features a basic digital clock that displays the current time with precision in hours, minutes, and seconds. 
+
 <br>
 <br>
 
