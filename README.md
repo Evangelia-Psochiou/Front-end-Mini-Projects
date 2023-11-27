@@ -7,6 +7,8 @@ A collection of practical front-end projects developed using JavaScript, HTML an
 
 * NotesApp : This project is a user-friendly note-taking application crafted to simplify the process of creating and managing notes.
 
+* CalculatorApp : Dark-Light Calculator project provides a simple calculator for basic arithmetic operations. Users can switch between two color themes, black and white.
+
 <br>
 <br>
 
