@@ -1,4 +1,4 @@
-# Front-end-mini-projects
+# Front-end_mini-projects
 
 A collection of practical front-end projects developed using JavaScript, HTML and CSS.
 
@@ -6,6 +6,8 @@ A collection of practical front-end projects developed using JavaScript, HTML an
 * RockPaperScissorsApp : The Rock, Paper, Scissors game is a classic hand game that is commonly played between two individuals. However, in this particular implementation, the player is engaged in a one-player game against the computer.
 
 * NotesApp : This project is a user-friendly note-taking application crafted to simplify the process of creating and managing notes.
+
+* CalculatorApp : Dark-Light Calculator project provides a simple calculator for basic arithmetic operations. Users can switch between two color themes, black and white.
 
 <br>
 <br>
